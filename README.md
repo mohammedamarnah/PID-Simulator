@@ -1,4 +1,6 @@
-# PID Line Follower Simulator (EV3 Mindstorms Robots)
+# PID Line Follower Simulator
+(EV3 Mindstorms Robots)
+
 This project is a simple simulator for the PID Line Following algorithm (EV3 Mindstorms version).
 It was made using C++ and Processing. 
 The .cpp file contains a command line tool version of the simulator, and was done first. 
